@@ -1,6 +1,6 @@
 # ML Zoomcamp Journey
 
-This repository documents my learning progress through the **Machine Learning Zoomcamp 2025**.  
+This repository documents my learning progress through the **Machine Learning Zoomcamp 2025** via **DataTalks.Club**.  
 It includes both **homework assignments** and my **weekly reflections**.  
 
 ## Structure
@@ -17,6 +17,7 @@ This repo helps me:
 ## Progress
 - [Module 1 – Intro](./01-intro)
 - [Module 2 – Regression](./02-regression) (coming soon)
+
 
 
 
